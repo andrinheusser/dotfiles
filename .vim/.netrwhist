@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/mnt/c/Projects/fusion/src/Api'
+let g:netrw_dirhist_2='/mnt/c/Projects/fusion/src/Api/Request'
+let g:netrw_dirhist_3='/mnt/c/Projects/fusion/src/Api'
+let g:netrw_dirhist_4='/mnt/c/Projects/library/public/wp-content/themes/pmdtheme'
+let g:netrw_dirhist_5='/mnt/c/Projects/library/public/wp-content/plugins/acfcontentpress'
+let g:netrw_dirhist_6='/mnt/c/Projects/library/public/wp-content/plugins/acfcontentpressfrontend'

@@ -1,0 +1,13 @@
+{
+  "php": {
+    "name": "php",
+    "notes": [
+      {
+        "uuid": "0482911d-d9d9-4d5d-a9b4-313a4729cade",
+        "content": "array_flip exchanges keys with their values in an array",
+        "added_on": 1518535760,
+        "edited_on": 0
+      }
+    ]
+  }
+}

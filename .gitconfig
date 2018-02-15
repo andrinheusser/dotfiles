@@ -1,0 +1,5 @@
+[user]
+	name = Andrin Heusser
+	email = andrinheusser@gmail.com
+[core]
+	autocrlf = false
